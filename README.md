@@ -1,4 +1,6 @@
-# ml-with-pytorch
+# MLWPYASL (Machine Learning With Pythorch And Scilit-Learn)
+
+## ml-with-pytorch
 
 머신 러닝 교과서 파이토치 편
 
